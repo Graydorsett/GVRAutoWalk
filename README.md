@@ -1,6 +1,7 @@
 AutoWalk for GVR
 
 Steps
+
 1. Create 'VRMain' object and place GvrMain inside
 
 2. Add Character Controller component to VRMain
